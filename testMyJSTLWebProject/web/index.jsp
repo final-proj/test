@@ -7,7 +7,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>My Web Project</title>
+<title>정호형 바보</title>
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <style>
 	.background {
@@ -72,7 +72,7 @@
   	<div class="w3-display-container mySlides w3-animate-fading">
 	  <img src="resources/images/sample/img_sample1.jpg">
 	  <div class="w3-display-bottomright w3-container w3-padding-16 w3-black">
-    	귀여운 화이트 초코 고슴도치
+    	메로오옹
   	  </div>
   	</div>
   	<div class="w3-display-container mySlides w3-animate-fading">
